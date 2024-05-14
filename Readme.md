@@ -36,5 +36,5 @@ Esta é uma aplicação web simples que permite aos usuários verificar a previs
 
 ## Créditos 💡
 
-Este projeto foi desenvolvido por [Nathalia Santos] como parte de um compromisso contínuo de aprender e aprimorar habilidades de desenvolvimento web. Fique à vontade para contribuir, abrir issues ou fornecer feedback!
+[Este projeto](https://nathsantos2024.github.io/Previsao_do_Tempo/) foi desenvolvido como parte de um compromisso contínuo de aprender e aprimorar habilidades de desenvolvimento web. Fique à vontade para contribuir, abrir issues ou fornecer feedback!
 
