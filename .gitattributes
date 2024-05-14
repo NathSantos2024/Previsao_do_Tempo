@@ -1,0 +1,6 @@
+<path/to/large/file> filter=lfs diff=lfs merge=lfs -text
+src/video/video6.mp4 filter=lfs diff=lfs merge=lfs -text
+teste1.mp4 filter=lfs diff=lfs merge=lfs -text
+teste2.mp4 filter=lfs diff=lfs merge=lfs -text
+Previsão_Tempo.gif filter=lfs diff=lfs merge=lfs -text
+src/video/video7.mp4 filter=lfs diff=lfs merge=lfs -text

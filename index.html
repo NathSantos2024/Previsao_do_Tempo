@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Nathalia Santos">
+    <title>Previsão do Tempo</title>
+    <link rel="stylesheet" href="./src/css/styles.css">
+    <link rel="icon" type="image/png" sizes="16x16"  href="./src/favicon/favicon-16x16.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+</head>
+<body>
+    <section class="container">
+        <video class="video" autoplay muted loop>
+            <source id="video-source" src="./src/video/video1.mp4" type="video/mp4">
+        </video>
+
+        <div class="caixa">
+            <div class="busca">
+                <button onclick="buscaTemp()" class="btn-busca">
+                    <img src="./src/img/busca.png" alt="icone-busca">
+                </button>
+                <input id="input-busca" placeholder="Coloque aqui o nome da cidade" type="text">
+            </div>
+            <div class="envelope">
+                <div class="conteudo-clima">
+                    <img class="icone-tempo" src="./src/img/01d.png"  alt="icone-tempo">
+                    <h2 class="nome-cidade">Paris</h2>
+                    <h3 class="temperatura">22ºC</h3>
+                    <div class="conteudo-variacao">
+                    <p class="maxtemperatura">máx: 23ºC</p>
+                    <p class="mintemperatura">mín: 21ºC</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>     
+    <script src="./src/js/script.js"></script>
+</body>
+</html>
+
+
+
+
+
+
