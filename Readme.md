@@ -18,9 +18,7 @@ Esta é uma aplicação web simples que permite aos usuários verificar a previs
 
 ## Visualização da Interface
 
-<center>
-![Interface da Aplicação de Previsão do Tempo](Previsão_Tempo.gif)
-</center>
+![Interface da Aplicação de Previsão do Tempo](https://github.com/NathSantos2024/Previsao_do_Tempo/raw/master/Previs%C3%A3o_Tempo.gif)
 
 ## Tecnologias Utilizadas 🛠️
 
