@@ -75,7 +75,6 @@ document.addEventListener('DOMContentLoaded', () => {
             './src/video/video3.mp4',
             './src/video/video4.mp4',
             './src/video/video5.mp4',
-            './src/video/video7.mp4',
         ];
 
         // Seleciona um vídeo aleatório do array
